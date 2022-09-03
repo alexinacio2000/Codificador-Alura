@@ -11,6 +11,7 @@ https://alexinacio2000.github.io/Codificador-Alura/
 ![image](https://user-images.githubusercontent.com/107261997/188281336-8ad72b11-a38d-4ff1-951e-df0139a494ec.png)
 
 ## Para fazer a descriptográfia, cola a mensagem criptografada e cola no campo a esquerda e aperta o botão Descriptografar
-![image](https://user-images.githubusercontent.com/107261997/188281372-1bdf67a1-653b-4962-84ff-e44682468ce4.png)
+![image](https://user-images.githubusercontent.com/107261997/188281398-8b4f028e-f67d-42e0-8094-385ce4a9f71e.png)
+
 
 
