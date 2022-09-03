@@ -4,5 +4,13 @@ A partir desse sistema é possível criptografar mensagens e depois descriptogra
 ## Link do projeto no GitHub Pages
 https://alexinacio2000.github.io/Codificador-Alura/
 
-![image](https://user-images.githubusercontent.com/107261997/188281277-c83b2775-c9d2-46be-ac25-fc98ff9d7623.png)
+## Colocando as palavras para serem criptografadas
+![image](https://user-images.githubusercontent.com/107261997/188281317-c76eb75a-47e5-466e-b9d4-8e9cffdadb02.png)
+
+## As palavras criptografadas aparecem no quadro a direita 
+![image](https://user-images.githubusercontent.com/107261997/188281336-8ad72b11-a38d-4ff1-951e-df0139a494ec.png)
+
+## Para fazer a descriptográfia, cola a mensagem criptografada e cola no campo a esquerda e aperta o botão Descriptografar
+![image](https://user-images.githubusercontent.com/107261997/188281372-1bdf67a1-653b-4962-84ff-e44682468ce4.png)
+
 
